@@ -1,5 +1,5 @@
 import { Link } from "react-scroll";
-import resume from "../cv.pdf";
+import resume from "../cv.docx";
 import Typewriter from "typewriter-effect";
 
 const Hero = () => {
