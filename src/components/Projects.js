@@ -14,10 +14,10 @@ const Projects = () => {
 
     {
       id: 2,
-      name: "TCJ-Space",
-      image: "/img/space.png",
-      link: "https://tcj-web-space.vercel.app/",
-      code: "https://github.com/M-Muiz/TCJ_Web-Space",
+      name: "Grilli Master",
+      image: "/img/grill.png",
+      link: "https://m-muiz.github.io/Grilli-Master/",
+      code: "https://github.com/M-Muiz/Grilli-Master",
     },
 
     {
@@ -26,6 +26,14 @@ const Projects = () => {
       image: "/img/agency.png",
       link: "https://m-muiz.github.io/Agency-website/index.html",
       code: "https://github.com/M-Muiz/Agency-website",
+    },
+
+    {
+      id: 4,
+      name: "Mern Estate",
+      image: "/img/mern.png",
+      link: "https://mern-stack-estate-app-ieba.vercel.app/",
+      code: "https://github.com/M-Muiz/MERN_STACK_ESTATE_APP",
     },
   ];
 
